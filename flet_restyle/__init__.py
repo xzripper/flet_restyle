@@ -11,6 +11,8 @@ from ctypes import windll
 from typing import Callable
 
 
+RESTYLE_VERSION: str = '1.0.0'
+
 def google_font(font_folder: str, font: str) -> tuple[str, str]:
     """Returns font name, and link on a google font."""
     return (font, f'https://github.com/google/fonts/raw/main/apache/{font_folder}/{font}.ttf')
@@ -40,6 +42,7 @@ class FletReStyleConfig:
 class FletReStyle:
     @staticmethod
     def apply_config(page: Page, config: FletReStyleConfig, _page_on_resize_event: Callable=None) -> None:
+        """Apply config for page."""
         if config.font:
             if page.fonts:
                 page.fonts[config.font[0]] = config.font[1]
