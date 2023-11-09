@@ -1,5 +1,5 @@
 <img src="ReStyleBanner.png">
-<h1 align="center">Flet ReStyle. [V1.0.0, <code>pip install flet_restyle</code></h1>
+<h1 align="center">Flet ReStyle. [V1.0.0, <code>pip install flet_restyle</code>]</h1>
 <p align="center"><i>ReStyling for Flet.</i></p>
 
 <p align="center"><a href="https://github.com/xzripper/flet_restyle/blob/main/docs.md">Documentation.</a></p><br>
