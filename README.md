@@ -7,6 +7,9 @@
 <p align="left"><b>Flet:</b></p>
 <img align="left" src="flet.gif" width=500><br>
 
+<p align="right"><b>Flet ReStyle:</b></p>
+<img align="right" src="restyle.gif" width=500>
+
 <p align="center"><b>Only one line needed:</b></p>
 <p align="right">
 
@@ -14,6 +17,3 @@
 FletReStyle.apply_config(page, FletReStyleConfig())
 ```
 </p>
-
-<p align="right"><b>Flet ReStyle:</b></p>
-<img align="right" src="restyle.gif" width=500>
