@@ -1,3 +1,4 @@
+<h1 align="center">⚠️ Deprecated for latest Flet versions :( ⚠️</h1>
 <img src="ReStyleBanner.png">
 <h1 align="center">Flet ReStyle. [V1.0.0, <code>pip install flet_restyle</code>]</h1>
 <p align="center"><i>ReStyling for Flet.</i></p>
